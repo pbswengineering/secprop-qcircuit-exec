@@ -7,6 +7,7 @@
 [![Python](https://img.shields.io/badge/python-v3.7+-blue.svg)](https://www.python.org)
 [![License](https://img.shields.io/badge/License-BSD_2--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)
 [![GitHub issues](https://img.shields.io/github/issues/pbswengineering/secprop-qcircuit-exec.svg)](https://github.com/pbswengineering/secprop-qcircuit-exec/issues)
+[![DOI](https://zenodo.org/badge/1115277931.svg)](https://doi.org/10.5281/zenodo.17977894)
 
 ## Table of contents
 
